@@ -182,3 +182,10 @@ You are required to submit BOTH of the following for review:
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+<!-- employees have two foreign keys one is the roll id and that points back to the roll table and the other is the manager its a for but points back to itself, havent seen so look up docs on w3  -->
+
+SELECT role.title, department.name
+FROM role 
+JOIN department 
+ON role.department_id = department.id
