@@ -1,3 +1,5 @@
+-- various values with department role employee insert and number values to decide management position
+
 INSERT INTO
     department (name)
 VALUES

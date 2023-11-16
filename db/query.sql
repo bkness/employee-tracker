@@ -1,8 +1,9 @@
+-- query for vieing employees and departments
 SELECT role.title, department.name, role.salary
 FROM role 
 JOIN department 
 ON role.department_id = department.id 
-
+-- querie for selecting employee id, names department and slary 
 SELECT 
     employee.id, 
     employee.first_name, 
