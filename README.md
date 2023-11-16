@@ -31,6 +31,9 @@ If you have any questions you can email me at kbrandon863@gmail.com if you want 
 
 ## Deployment
 This app can be viewed in heroku [here](https://dashboard.heroku.com/apps/professional-employee-tracker)
+
 The GitHub info can be viewed [here](https://github.com/bkness/employee-tracker)
+
 Here is a video showcasing the app being used via the terminal: 
-[Untitled_ Nov 15, 2023 10_55 PM.webm](https://github.com/bkness/employee-tracker/assets/123907755/3ca6e4b4-d811-4870-a9de-2bc1e46281c3)
+
+[bkness employee-tracker](https://github.com/bkness/employee-tracker/assets/123907755/3ca6e4b4-d811-4870-a9de-2bc1e46281c3)
